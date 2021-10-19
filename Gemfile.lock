@@ -194,7 +194,7 @@ GEM
     stimulus-rails (0.7.0)
       rails (>= 6.0.0)
     thor (1.1.0)
-    turbo-rails (7.1.0)
+    turbo-rails (7.1.1)
       rails (>= 6.0.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
@@ -207,7 +207,7 @@ GEM
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.5.0.beta5)
+    zeitwerk (2.5.0.beta6)
 
 PLATFORMS
   aarch64-linux
